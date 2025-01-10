@@ -1,0 +1,16 @@
+.banner {
+    height: 500px;
+    max-width: max-content;
+background-color: hsl(120, 35%, 85%) ;
+justify-content: space-between;
+display: flex;
+margin: auto;
+}
+#banner1 {
+display: block;
+}
+#memorial {
+    height: 200px;
+    width: 200px;
+
+}
